@@ -1,2 +1,2 @@
-# ccp_html_w24
-SI 339 Discussion 2
+# ccp_starter_code
+Starter Code for your CCP 
